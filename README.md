@@ -1,4 +1,4 @@
-# Weekly Progress Report
+# Weekly Status Report
 
 ## Preamble
 * **Week #:** ___
